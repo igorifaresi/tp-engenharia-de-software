@@ -26,8 +26,10 @@ O tipo de solução será um chatbot.
 ### Requisitos não funcionais:
 
 - Interface coesa e fácil de usar.
+- Ver histórico de busca.
 - Permitir o login com o Google.
 - Gerar para o usuário animações interativas que expliquem determinado assunto.
 
 ## v)
 
+![yay drawio](https://github.com/igorifaresi/tp-engenharia-de-software/assets/48635268/73d107c0-f825-4393-a18a-962552192050)
