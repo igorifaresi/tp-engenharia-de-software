@@ -1,3 +1,5 @@
+# tp1
+
 ## i)
 
 Eu escolhi primariamente Golang para a confecção do parte server-side pelos seguintes motivos: familiaridade, simplicidade e rubustez. Para o frontend eu escolhi TypeScript, uma vez que é uma alternativa tipada ao Javascript, e escolhi Svelte como biblioteca gráfica, especialmente pela velocidade. Para a autenticação dos usuários, pretendo usar o Clerk, irá simplificar o projeto, e possui um modelo freemium.
