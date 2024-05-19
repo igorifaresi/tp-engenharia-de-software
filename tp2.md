@@ -21,3 +21,17 @@ Eu escolhi primariamente Golang para a confecção do parte server-side pelos se
 ## iii)
 
 A arquitetura segue um modelo simples e busca trazer uma abordagem mais monolítica com fins de maior simplicidade (e o fato de estar fazendo sozinho e não precisar de tanta compartimentalização. O resto segue o esperado para aplicações neste modelo.
+
+## Testes)
+
+### 1)
+
+Tentar entrar no sistema sem o cadastro e verificar se o sistema barra entradas não autorizadas.
+
+### 2)
+
+Realizar a busca de materiais de apoio e verificar se os conteúdos fornecidos condizem com a busca do usuário.
+
+### 3)
+
+Verificar se a busca de materias complementares é mais efetiva do que a busca feita pelos motores de busca padrões.
